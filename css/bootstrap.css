@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --blue: #473bf0;
+  --blue: #0078b7;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #473bf0;
+  --primary: #0078b7;
   --secondary: #68d585;
   --success: #68d585;
   --info: #17a2b8;
@@ -29,7 +29,7 @@
   --red: #f64b4b;
   --green: #68d585;
   --green-shamrock: #2bd67b;
-  --blue: #473bf0;
+  --blue: #0078b7;
   --sky-blue: #1082e9;
   --yellow: #f7e36d;
   --yellow-orange: #FCAD38;
@@ -176,7 +176,7 @@ sup {
 }
 
 a {
-  color: #473bf0;
+  color: #0078b7;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3079,8 +3079,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #473bf0;
-  border-color: #473bf0;
+  background-color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-primary:hover {
@@ -3098,8 +3098,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #473bf0;
-  border-color: #473bf0;
+  background-color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -3486,8 +3486,8 @@ fieldset:disabled a.btn {
 
 .btn-blue {
   color: #fff;
-  background-color: #473bf0;
-  border-color: #473bf0;
+  background-color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-blue:hover {
@@ -3505,8 +3505,8 @@ fieldset:disabled a.btn {
 
 .btn-blue.disabled, .btn-blue:disabled {
   color: #fff;
-  background-color: #473bf0;
-  border-color: #473bf0;
+  background-color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-blue:not(:disabled):not(.disabled):active, .btn-blue:not(:disabled):not(.disabled).active,
@@ -4188,14 +4188,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #473bf0;
-  border-color: #473bf0;
+  color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #473bf0;
-  border-color: #473bf0;
+  background-color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -4203,15 +4203,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #473bf0;
+  color: #0078b7;
   background-color: transparent;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #473bf0;
-  border-color: #473bf0;
+  background-color: #0078b7;
+  border-color: #0078b7;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -24491,7 +24491,7 @@ button.bg-narvik:focus {
 }
 
 .text-primary {
-  color: #473bf0 !important;
+  color: #0078b7 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -24579,7 +24579,7 @@ a.text-green-shamrock:hover, a.text-green-shamrock:focus {
 }
 
 .text-blue {
-  color: #473bf0 !important;
+  color: #0078b7 !important;
 }
 
 a.text-blue:hover, a.text-blue:focus {
