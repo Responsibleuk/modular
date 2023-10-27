@@ -1,6 +1,6 @@
 /*=== Media Query ===*/
 body[data-theme='light'] .text-primary--light-only {
-  color: #473bf0;
+  color: #0078b7;
 }
 
 body[data-theme='dark'] .border-gray-3 {
@@ -24,7 +24,7 @@ body[data-theme='dark'] .btn-toggle {
 }
 
 body[data-theme='dark'] .btn-toggle span {
-  background: #473bf0;
+  background: #0078b7;
 }
 
 body[data-theme='dark'] .btn-toggle.active span {
@@ -62,6 +62,12 @@ body[data-theme='dark'] .btn-toggle.active span {
 }
 
 
-.bg-slate-grey {background-color: #0078c8;}
+.bg-slate-grey {background-color: #0078b7;}
 
-.bg-pale-blue {background-color: #bcf3fd;}
+.bg-pale-blue {background-color: #caf1f8;}
+
+.bg-teal {background-color: #1a747d;}
+
+.bg-light-grey {background-color: #e2e2e2;}
+
+
