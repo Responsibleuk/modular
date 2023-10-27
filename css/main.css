@@ -238,6 +238,16 @@ body[data-theme='light'] .default-shape,
   background: #fff;
 }
 
+.btn-trans {
+  border: 1px solid #d5d7dd;
+  background: transparent;
+}
+
+.btn-trans:hover {
+  color: #0078b7;
+  background: #fff;
+}
+
 .btn-link.with-icon {
   display: inline-flex;
   align-items: center;
