@@ -32,3 +32,36 @@ body[data-theme='dark'] .btn-toggle.active span {
 }
 
 /*# sourceMappingURL=maps/theme-mode-custom.css.map */
+
+
+
+
+.coundown-container{
+  display: flex;
+  
+  /* flex-direction: row; */
+
+}
+.big-text{
+  font-size: 3rem;
+  line-height: 1;
+  width: 4rem;
+  height: 4rem;
+  margin: 1rem;
+  background-color: #fff;
+  color: #13151C;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px rgba(37, 37, 37, 0.3);
+}
+
+.countdown-el{
+  text-align: center;
+}
+.countdown-el span{
+  font-size: 1rem;
+}
+
+
+.bg-slate-grey {background-color: #0078c8;}
+
+.bg-pale-blue {background-color: #bcf3fd;}
