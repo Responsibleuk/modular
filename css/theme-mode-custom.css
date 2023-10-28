@@ -79,3 +79,10 @@ body[data-theme='dark'] .btn-toggle.active span {
   border-radius: 5px;
  
 }
+
+
+@media (max-width: 1024px) {
+  .mob-rev {
+    display: none !important;
+  }
+}
