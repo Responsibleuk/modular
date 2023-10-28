@@ -86,3 +86,6 @@ body[data-theme='dark'] .btn-toggle.active span {
     display: none !important;
   }
 }
+
+
+.card-image {border-radius: 25px;}
