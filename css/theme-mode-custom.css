@@ -71,3 +71,11 @@ body[data-theme='dark'] .btn-toggle.active span {
 .bg-light-grey {background-color: #e2e2e2;}
 
 
+.border {
+  
+  background-color: #fff;
+  border: #13151C;
+  
+  border-radius: 5px;
+ 
+}
