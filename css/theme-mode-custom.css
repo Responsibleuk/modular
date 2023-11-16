@@ -67,7 +67,13 @@ font-weight: 700;}
 
 .bg-slate-grey {background-color: #0078b7;}
 
+.bg-light-slate-grey {background-color: slategrey;}
+
+.bg-v-light-slate-grey {background-color: rgb(159, 162, 165);}
+
 .bg-pale-blue {background-color: #caf1f8;}
+
+.bg-v-pale-blue {background-color: #eefcff;}
 
 .bg-teal {background-color: #1a747d;}
 

@@ -1200,6 +1200,7 @@ body[data-theme='light'] .default-shape,
 -------------------------*/
 .nav-item.dropdown.dropdown-mega {
   z-index: 1;
+  
 }
 
 @media (min-width: 992px) {
@@ -1238,7 +1239,7 @@ body[data-theme='light'] .default-shape,
 
 @media (min-width: 1200px) {
   .gr-megamenu-dropdown {
-    min-width: 1100px;
+    min-width: 1350px;
   }
 }
 
