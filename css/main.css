@@ -7138,6 +7138,10 @@ button:focus {
   min-height: 297px;
 }
 
+.min-height-px-200 {
+  min-height: 200px;
+}
+
 .pointer-none {
   pointer-events: none;
 }
