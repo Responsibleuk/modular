@@ -130,3 +130,19 @@ font-weight: 700;}
   
 
  
+
+
+
+    @media (max-width: 768px) {
+      #hideOnSmallDevices {
+        display: none;
+      }
+    }
+
+
+    /* Media query to show the div on devices bigger than a tablet */
+    @media (min-width: 769px) {
+      #showOnLargeDevices {
+        display: block;
+      }
+    }
