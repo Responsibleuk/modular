@@ -151,3 +151,19 @@ font-weight: 700;}
 
   
     
+
+
+    .input-container {
+      position: relative;
+  }
+  
+  .placeholder {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 10px; /* Adjust as needed */
+      pointer-events: none;
+      opacity: 0.5; /* Adjust opacity as needed */
+      color: #000; /* Adjust color as needed */
+      font-size: 0.8em; /* Adjust font size as needed */
+  }
